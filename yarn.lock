@@ -102,6 +102,11 @@
   dependencies:
     "@types/node" "*"
 
+"@vercel/build-utils@^5.0.6":
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-5.0.6.tgz#b00a10e1cdb39b0e17359e31029069254c5729b3"
+  integrity sha512-81IDxsWrM1y5+KTKSBEj+gaXy375wqbWQ3mNxFW4aiNTLLy0z3gL9Y6ZN9LzvapTBBDpoU+oS1PuHNnyXMVxdA==
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
