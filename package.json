@@ -12,6 +12,7 @@
     "crawl": "ts-node crawler/script.ts"
   },
   "dependencies": {
+    "@zeit/ncc": "^0.22.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
